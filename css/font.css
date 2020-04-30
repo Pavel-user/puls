@@ -1,0 +1,22 @@
+
+@font-face {
+  font-family: 'Quarion';
+  src: url('../font/Quarion-ExtraBold.woff2') format('woff2'),
+      url('./font/Quarion-ExtraBold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Quarion';
+  src: url('../font/Quarion-Medium.woff2') format('woff2'),
+      url('../font/Quarion-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Quarion';
+  src: url('../font/Quarion-Light.woff2') format('woff2'),
+      url('../font/Quarion-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
